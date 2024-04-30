@@ -3,6 +3,7 @@ this is a hello-world project
 hello shanghai
 
 - [x] #739
+- [x] https://github.com/lin-whale/hello-world/issues/7#issue-2270691147
 - [x] [https://github.com/octo-org/octo-repo/issues/740](https://github.com/jlord/sheetsee.js/issues/26)
 - [ ] github-linguist/linguist#4039
 
